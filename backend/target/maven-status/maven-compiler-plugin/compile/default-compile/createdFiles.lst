@@ -1,0 +1,6 @@
+com\backend\backend\model\login.class
+com\backend\backend\cors.class
+com\backend\backend\BackendApplication.class
+com\backend\backend\controller\control.class
+com\backend\backend\repository\loginrepo.class
+com\backend\backend\cors$1.class
