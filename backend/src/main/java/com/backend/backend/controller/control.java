@@ -26,4 +26,5 @@ public class control {
     public List<login> getAllLoginDetails() {
         return loginRepository.findAll();
     }
+    //hello
 }
